@@ -212,6 +212,6 @@ plt.show()
 
 Both plots show the most common 20 ingredients used in chocolate chip cookie recipes. some ingredients like egg, vanilla, all-purpose flour are almost in all of recipes (which makes sense), and on the other hand, some ingredients like peacon and dark chocolate chip cookies are common but much less common than those. 
 From here, we can look into ingredient combinations. For example what combination of ingredients are used more and more common to be paired. We can also look for patterns between rating and certain ingredients, for example does use of less common ingredient impact the rating? or if we remove the top-k ingredients what other (less common) ingredients improve the ranking of a recipe?
-Another approach is to explore 'Quantity' more, for example quantity vs recipe rating, or visualize how quantities vary between the top 20 recipes, or look into outliers and recipes with unusually high/low quantities of essential ingredients. 
+Another approach is to explore 'Quantity' more, for example quantity vs recipe rating, or visualize how quantities vary between the top 20 recipes, or look into outliers and recipes with unusually high/low quantities of essential ingredients.  
 
 
